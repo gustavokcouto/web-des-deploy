@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web-des-deploy/static/css/main.d7936dd0.chunk.css",
+    "main.js": "/web-des-deploy/static/js/main.4c308f67.chunk.js",
+    "main.js.map": "/web-des-deploy/static/js/main.4c308f67.chunk.js.map",
+    "runtime-main.js": "/web-des-deploy/static/js/runtime-main.f1759e59.js",
+    "runtime-main.js.map": "/web-des-deploy/static/js/runtime-main.f1759e59.js.map",
+    "static/js/2.222180a1.chunk.js": "/web-des-deploy/static/js/2.222180a1.chunk.js",
+    "static/js/2.222180a1.chunk.js.map": "/web-des-deploy/static/js/2.222180a1.chunk.js.map",
+    "index.html": "/web-des-deploy/index.html",
+    "precache-manifest.87e5b71b693b62b44e33bd21c3345d07.js": "/web-des-deploy/precache-manifest.87e5b71b693b62b44e33bd21c3345d07.js",
+    "service-worker.js": "/web-des-deploy/service-worker.js",
+    "static/css/main.d7936dd0.chunk.css.map": "/web-des-deploy/static/css/main.d7936dd0.chunk.css.map",
+    "static/js/2.222180a1.chunk.js.LICENSE.txt": "/web-des-deploy/static/js/2.222180a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1759e59.js",
+    "static/js/2.222180a1.chunk.js",
+    "static/css/main.d7936dd0.chunk.css",
+    "static/js/main.4c308f67.chunk.js"
+  ]
+}
